@@ -20,7 +20,7 @@ body {
   color: #dbeafe;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  overflow-y: auto;
+  overflow-y: hidden;
   min-height: 100vh;
 }
 
